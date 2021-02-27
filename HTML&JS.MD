@@ -47,7 +47,7 @@ tell a browser which version of HTML the page is using (although browsers usuall
 Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page
 ## Class attribute :
 Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
-## block level :elements will always appear to start on a new line in the browser window.
+### block level :elements will always appear to start on a new line in the browser window.
  
 ## grouping text and elemints"
 * The <div> :element allows you to group a set of elements together in one block-level box.
