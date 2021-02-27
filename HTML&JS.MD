@@ -38,5 +38,32 @@ a name and a value, separated by an equals sign.
 3. **<body>**:Everything inside this element is shown inside the main browser window.
 4. **<head>**:This contains information about the page (rather than information that is shown within 
 the main part of the browser window that is highlighted in blue on the opposite page). 
-5. **<title>** :The contents of the <title> element are either shown in the top of the browser, above where you usually
+5. **title** :The contents of the <title> element are either shown in the top of the browser, above where you usually
 type in the URL of the page you want to visit, or on the tab for that page 
+# EXTRA MARKUP
+## DOCTYPE :
+tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
+## id attribute:
+Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page
+## Class attribute :
+Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
+## block level :elements will always appear to start on a new line in the browser window.
+ 
+## grouping text and elemints"
+* The <div> :element allows you to group a set of elements together in one block-level box.
+* The <span>: element acts like an inline equivalent of the <div>element. It is used to either:
+  1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+  2. Contain a number of inline elements
+* Iframe: is like a little window that has been cut into your page — and in that window you can see another page. 
+The term iframe is an abbreviation of inline frame.
+ # Escape Characters:
+1. There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets)
+2. Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references)
+3. There are also special codes that can be used to show symbols such as copyright and trademark, currency symbols, mathematical characters, and some punctuation marks.
+### example:
+1. Pound sign :&pound; &#163
+2. Less-than sign: &lt;   &#60;
+3. Cent sign:&cent;&#162;
+4. Copyright symbol &copy;&#169;
+ 
+ 
