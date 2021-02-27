@@ -1,7 +1,7 @@
 # HTML&JS.MD
 
 ## INTRODUCTION:
-### how PeopLe access the web:
+### how people access the web:
 1. **Browsers**: People access websites using software called a web browser. Popular examples include Firefox,
 Internet Explorer, Safari, Chrome, and Opera.
 
