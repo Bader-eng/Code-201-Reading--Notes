@@ -66,4 +66,10 @@ The term iframe is an abbreviation of inline frame.
 3. Cent sign:&cent;&#162;
 4. Copyright symbol &copy;&#169;
  
+ ## New HTML5 layout eLements :
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
+1. header and footer :The main header or footer ●that appears at the top or bottom of every page on the site.
+2. nav :is used to contain the major navigational blocks on the site such as the primary site navigatio.
+3. article : element acts as a container for any section of a page that could stand alone and potentially be syndicated
+4. section : element groups related content together, and typically each section would have its own heading
  
