@@ -33,10 +33,10 @@ A web server is a computer that is constantly connected to the web, and is set u
 ![html elements](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDEvaxCPpk3DF6E4vugvzbkL7kJGnxiGHHQw&usqp=CAU)
 
 1. **Tags**: act like containers. They tell you something about the information that lies between their opening and closing tags 
-3. **Attributes**: provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts:
- a name and a value, separated by an equals sign.
-4. **<body>**:Everything inside this element is shown inside the main browser window.
-5. **<head>**:This contains information about the page (rather than information that is shown within 
+2. **Attributes**: provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts:
+a name and a value, separated by an equals sign.
+3. **<body>**:Everything inside this element is shown inside the main browser window.
+4. **<head>**:This contains information about the page (rather than information that is shown within 
 the main part of the browser window that is highlighted in blue on the opposite page). 
- 6. **<title>** :The contents of the <title> element are either shown in the top of the browser, above where you usually
-  type in the URL of the page you want to visit, or on the tab for that page 
+5. **<title>** :The contents of the <title> element are either shown in the top of the browser, above where you usually
+type in the URL of the page you want to visit, or on the tab for that page 
