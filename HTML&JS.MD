@@ -40,6 +40,7 @@ a name and a value, separated by an equals sign.
 the main part of the browser window that is highlighted in blue on the opposite page). 
 5. **title** :The contents of the <title> element are either shown in the top of the browser, above where you usually
 type in the URL of the page you want to visit, or on the tab for that page 
+ 
 # EXTRA MARKUP
 ## DOCTYPE :
 tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
@@ -49,12 +50,12 @@ Every HTML element can carry the id attribute. It is used to uniquely identify t
 Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
 ### block level :elements will always appear to start on a new line in the browser window.
  
-## grouping text and elemints"
-* The <div> :element allows you to group a set of elements together in one block-level box.
-* The <span>: element acts like an inline equivalent of the <div>element. It is used to either:
-  1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
-  2. Contain a number of inline elements
-* Iframe: is like a little window that has been cut into your page — and in that window you can see another page. 
+## grouping text and elemints:
+1. The <div> :element allows you to group a set of elements together in one block-level box.
+2. The <span>: element acts like an inline equivalent of the <div>element. It is used to either:
+* Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+* Contain a number of inline elements
+3. Iframe: is like a little window that has been cut into your page — and in that window you can see another page. 
 The term iframe is an abbreviation of inline frame.
  # Escape Characters:
 1. There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets)
