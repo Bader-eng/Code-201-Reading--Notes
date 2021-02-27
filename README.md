@@ -9,7 +9,7 @@ I present to you some of the topics that are concerned with the development of p
 
 subject    | link
 ---------- | ----
-Challenge | Embraces 
+Code-201-Reading--Notes | [Code-201-Reading--Notes](Code-201-Reading--Notes) 
 Obstacles | Presists 
 Effort | np pain,no gain 
 Criticism | Learns from 
