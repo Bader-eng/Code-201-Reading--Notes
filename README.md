@@ -7,9 +7,9 @@ I present to you some of the topics that are concerned with the development of p
 
 ## The subject:
 
-subject    | growth mindset | fixed mindset
----------- | -------------- | -------------
-Challenge | Embraces | Avoids
-Obstacles | Presists | loses focus 
-Effort | np pain,no gain | Views as fruitless
-Criticism | Learns from | Ignores
+subject    | link
+---------- | ----
+Challenge | Embraces 
+Obstacles | Presists 
+Effort | np pain,no gain 
+Criticism | Learns from 
