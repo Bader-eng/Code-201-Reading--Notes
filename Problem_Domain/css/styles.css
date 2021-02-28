@@ -1,0 +1,32 @@
+#demo{
+    border: seagreen;
+    border-radius: 20px;
+    border-style: groove;
+    text-align: center;
+  }
+  .nav-item{
+    font-weight: bolder;
+    display: inline-block;
+    margin: 10px;
+  }
+  a:visited{
+    color: hotpink;
+  }
+  a{
+    text-decoration: none;
+  
+  }
+  nav{
+    background-color:black;
+  }
+
+  body {
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/517BWWhq-IL._AC_UL600_SR600,600_.jpg");
+  }
+  #greet{
+    border: sienna;
+    border-style: solid;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+  }
