@@ -13,4 +13,4 @@ Code-102-Reading-Notes | [Code-102-Reading-Notes](https://bader-eng.github.io/Co
 HTML&JS | [HTML&JS](HTML&JS) 
 class-02 | [class-02](class-02.MD)
 html+java | [html+java](html+java)
-Today I Learned | [Today I Learned](Today I Learned)
+Today I Learned | [Today I Learned.MD](Today I Learned.MD)
