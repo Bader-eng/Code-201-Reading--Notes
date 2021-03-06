@@ -15,3 +15,4 @@ console.log(usercolor);
 document.write("<h3> user color    :"  + usercolor + "<h3>")
  alert("Hello" +    username        + "nice to meet you are like"  +    userstyle    +   "style and your fav color is"   + usercolor +    "and you have nice body with size"    +   usersize   +   ",we will help you");
  
+ var movies = ["The Matrix", "Frozen"];
